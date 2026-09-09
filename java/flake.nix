@@ -44,7 +44,7 @@
 
             commands = [
               {
-                name = "run";
+                name = "jrun";
                 category = "app";
                 help = "Compile and run Main.java";
                 command = "javac Main.java && java Main \"$@\"";
